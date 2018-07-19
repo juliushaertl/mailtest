@@ -1,0 +1,15 @@
+{
+    "name": "Mail Test",
+    "description": "test",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Julius Härtl"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}

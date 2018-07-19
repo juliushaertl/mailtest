@@ -1,0 +1,12 @@
+#hello {
+	color: red;
+}
+
+#app-content-wrapper {
+	padding: 20px;
+}
+
+#app-content-wrapper iframe {
+	width: 100%;
+	height: 100%;
+}
